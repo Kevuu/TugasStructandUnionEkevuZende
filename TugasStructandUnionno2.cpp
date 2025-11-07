@@ -1,6 +1,5 @@
 #include <iostream>
 #include <string>
-#include <iomanip>
 using namespace std;
 
 // untuk memfiksasi jumlah array/data dari total seluruh siswa
@@ -105,6 +104,7 @@ int main() {
     
     return 0;
 }
+
 
 
 
